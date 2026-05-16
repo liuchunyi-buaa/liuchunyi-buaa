@@ -1,4 +1,4 @@
-## Hi there 👋
+## 天天开心鸭 🦆
 
 <!--
 **liuchunyi-buaa/liuchunyi-buaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
